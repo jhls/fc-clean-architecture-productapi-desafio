@@ -29,7 +29,7 @@
     "sqlite3": "^5.1.6",
     "uuid": "^9.0.0"
   },
-  "name": "desafio-product-clean-arch",
+  "name": "desafio-product-api-clean-arch",
   "description": "",
   "version": "1.0.0",
   "main": "index.js",
